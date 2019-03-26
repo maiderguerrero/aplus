@@ -440,7 +440,8 @@
 .content ol li,
 .cke_contents ol li {
 	list-style-type: none;
-	padding-left: 28px;
+	padding-left: 50px;
+	padding-top: 5px;
 	margin-bottom: 20px;
 	counter-increment: bck-li-counter;
 	position: relative;
