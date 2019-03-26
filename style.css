@@ -662,15 +662,19 @@
 .cke_contents .bck-ol7 li:before {
 	content: counter(bck-li-counter);
     color: #fff;
-    background: #0087CC;
+    background: #F39249;
     padding: 0px;
     border-radius: 100%;
-    position: absolute;
+    position: relative;
     top: 0px;
-    width: 24px;
+    left: -5px;
+    width: 40px;
     text-align: center;
     height: auto;
     font-size: 1.7rem;
+    text-shadow: none;
+    transform: none;
+    margin-right: -10px;
 }
 
 /*LISTA ORDENADA 8*/
