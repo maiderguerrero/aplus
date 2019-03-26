@@ -750,28 +750,18 @@
 
 /*LISTA DESORDENADA 2*/
 
-.texto_curso .bck-ul2 li, 
-.workspace .bck-ul2 li ul li, 
-.cke_contents .bck-ul2 li {
-    color: #0087CC;
-}
 
 .texto_curso .bck-ul2 li:before, 
 .workspace .bck-ul2 li ul li:before, 
 .cke_contents .bck-ul2 li:before {
     width: 6px;
     height: 6px;
-    background-color: #0087CC;
+    background-color: #B53A41;
     margin-left: -20px;
 }
 
 /*LISTA DESORDENADA 3*/
 
-.texto_curso .bck-ul3 li, 
-.workspace .bck-ul3 li ul li, 
-.cke_contents .bck-ul3 li {
-    color: #0087CC;
-}
 
 .texto_curso .bck-ul3 li:before, 
 .workspace .bck-ul3 li ul li:before, 
@@ -779,7 +769,7 @@
     width: 6px;
     height: 6px;
     background-color: #fff;
-    border: 1px solid #0087CC;
+    border: 1px solid #B53A41;
     margin-left: -20px;
 }
 
