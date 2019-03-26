@@ -512,6 +512,7 @@
     line-height: inherit;
     font-family: sans-serif;
     text-shadow: none;
+    transform: none;
 }
 
 /*LISTA ORDENADA 3*/
