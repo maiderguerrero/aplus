@@ -552,9 +552,27 @@
 
 .content .bck-ol4 li:before,
 .cke_contents .bck-ol4 li:before {
-    content: counter(bck-li-counter, lower-alpha) ".";
-    color: #000;
-    font-style: 2rem;
+    content: counter(bck-li-counter) ".";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 20px;
+    height: 0px;
+    -webkit-box-shadow: 0px;
+    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
+    box-shadow: 0px;
+    border: 0px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 0px;
+    background: #fff;
+    color: #00A1A8;
+    font-size: 1.9rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: inherit;
+    font-family: sans-serif;
     }
 
 /*LISTA ORDENADA 5*/
