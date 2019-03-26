@@ -571,8 +571,8 @@
     font-size: 1.9rem;
     font-weight: bold;
     text-align: center;
-    line-height: inherit;
-    font-family: sans-serif;
+    text-shadow: none;
+    transform: none;
     }
 
 /*LISTA ORDENADA 5*/
