@@ -490,29 +490,19 @@
 .cke_contents .bck-ol2 li:before,
 .content ol li:before,
 .cke_contents ol li:before {
-    content: counter(bck-li-counter) ".";
+    content: counter(bck-li-counter);
+    color: #fff;
+    background: #EC62A0;
+    padding: 9px 0px 5px 0px;
+    border-radius: 20%;
     position: absolute;
     top: 0px;
-    left: 0px;
-    display: inline-block;
-    width: 20px;
-    height: 0px;
-    -webkit-box-shadow: 0px;
-    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
-    box-shadow: 0px;
-    border: 0px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 0px;
-    background: #fff;
-    color: #333;
-    font-size: 2rem;
-    font-weight: bold;
+    width: 40px;
     text-align: center;
-    line-height: inherit;
-    font-family: sans-serif;
-    text-shadow: none;
-    transform: none;
+    height: auto;
+    font-size: 2.7rem;
+    text-shadow: 4px 5px 10px #000000ad;
+    transform: skew(-0.01turn, -188deg);
 }
 
 /*LISTA ORDENADA 3*/
@@ -531,27 +521,19 @@
 
 .content .bck-ol3 li:before,
 .cke_contents .bck-ol3 li:before {
-    content: counter(bck-li-counter) ".";
+    content: counter(bck-li-counter);
+    color: #fff;
+    background: #B9D26B;
+    padding: 9px 0px 5px 0px;
+    border-radius: 20%;
     position: absolute;
     top: 0px;
-    left: 0px;
-    display: inline-block;
-    width: 20px;
-    height: 0px;
-    -webkit-box-shadow: 0px;
-    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
-    box-shadow: 0px;
-    border: 0px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 0px;
-    background: #fff;
-    color: #0087CC;
-    font-size: 2rem;
-    font-weight: bold;
+    width: 40px;
     text-align: center;
-    line-height: inherit;
-    font-family: sans-serif;
+    height: auto;
+    font-size: 2.7rem;
+    text-shadow: 4px 5px 10px #000000ad;
+    transform: skew(-0.01turn, -188deg);
 
 }
 
