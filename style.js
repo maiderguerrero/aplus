@@ -39,6 +39,8 @@
 				{ name: 'Lista desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul bck-ul3' } },
 				{ name: 'Lista desordenada 4', element: 'ul', attributes: { 'class': 'bck-ul bck-ul4' } },
 
+				{ name: 'Tabla 1', element: 'table', attributes: { 'class': 'table-1' } },
+
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td-2' } },
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3' } },
