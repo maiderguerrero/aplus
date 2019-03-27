@@ -1024,7 +1024,36 @@
 }
 
 /*Caja 6*/
+.bck-box.bck-box6 {
+	border: none;
+	background: #FDEFF6;
+	border-radius: 20px;
+	margin-top: 50px;
+	padding: 15px 20px 30px 25px;
+}
 
+.bck-box6 .bck-title {
+	color: #333;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+
+.bck-box.bck-box6:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 40%;
+    bottom: 25px;
+    z-index: 10;
+    padding: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 25px solid #FDEFF6;
+    border-bottom: none;
+    height: 0;
+
+}
 
 /* Caja 7*/
 .bck-box.bck-box7 {
