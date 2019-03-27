@@ -1168,7 +1168,7 @@
 
 }
 
-.bck-box11.bck-title:before {
+.bck-box.bck-box11:before {
 	content: " ";
 	background-image: url(images/abonne-toi_3.png);
     background-repeat: no-repeat;
