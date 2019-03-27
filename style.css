@@ -1054,6 +1054,38 @@
 
 }
 
+/*Caja 7*/
+.bck-box.bck-box7 {
+	border: none;
+	background: #F7FAEF;
+	border-radius: 20px;
+	margin-top: 50px;
+	padding: 15px 20px 30px 25px;
+}
+
+.bck-box7 .bck-title {
+	color: #333;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+
+.bck-box.bck-box7:before{
+    content: '';
+    display: block;
+    position: absolute;
+    right: -15px;
+    margin-top: 17px;
+    z-index: 10;
+    padding: 0px;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid #F7FAEF;
+    border-right: none;
+    height: 0;
+
+}
+
 /* Caja 8*/
 .bck-box.bck-box8 {
 	border: 3px solid #01A1A8;
