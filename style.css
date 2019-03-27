@@ -879,15 +879,13 @@
     font-weight: 600;
 }
 
-.bck-box.bck-box1::before{
+.bck-box.bck-box1:before{
     content: '';
     display: block;
     position: relative;
     top: 95px;
     left: 40%;
     z-index: 10;
-    width: 0px;
-    height: 1px;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
     border-top: 25px solid #C3E4E7;
