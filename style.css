@@ -893,6 +893,7 @@
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
     border-top: 25px solid #C3E4E7;
+    border-bottom: none;
 
 }
 
@@ -922,6 +923,7 @@
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
     border-top: 25px solid #EEF4DE;
+    border-bottom: none;
 
 }
 
@@ -951,6 +953,7 @@
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
     border-top: 25px solid #ECF6F7;
+    border-bottom: none;
 
 }
 
