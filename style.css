@@ -1182,6 +1182,17 @@
 
 }
 
+/*Caja 12*/
+
+.bck-box.bck-box12 {
+	background-color: #F7FAEF;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    outline: 1px solid #000000;
+    border: 5px solid gray;
+
+}
+
 
 /*TABLA 1*/
 
