@@ -1133,8 +1133,17 @@
 
 /* Caja 10 */
 .bck-box.bck-box10 {
-	border: 2px solid #B3B2B2;
-	background: #fff;
+	background-color: #fff;
+    border-top: 5px solid #B8D171;
+    border-right: 5px solid #B8D171;
+    border-bottom: 3px solid #B8D171;
+    border-left: 50px solid #B8D171;
+    border-radius: 20px;
+    background-image: url(images/abonne-toi_2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: left;
+    background-position: 0px;
 }
 
 /*Caja 11*/
