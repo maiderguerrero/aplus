@@ -879,7 +879,7 @@
     font-weight: 600;
 }
 
-.bck-box.bck-box1:before{
+.bck-box.bck-box1::before{
     content: '';
     display: block;
     position: relative;
