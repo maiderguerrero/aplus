@@ -1074,14 +1074,14 @@
     content: '';
     display: block;
     position: absolute;
-    right: -15px;
+    left: -15px;
     margin-top: 17px;
     z-index: 10;
     padding: 0px;
     border-top: 25px solid transparent;
     border-bottom: 25px solid transparent;
-    border-left: 25px solid #F7FAEF;
-    border-right: none;
+    border-right: 25px solid #F7FAEF;
+    border-left: none;
     height: 0;
 
 }
