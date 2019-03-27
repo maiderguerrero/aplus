@@ -880,14 +880,14 @@
 }
 
 
-.bck-box1 .bck-content:before{
+.bck-box.bck-box1:before{
     content: '';
     display: block;
     position: absolute;
-    left: 0px;
-    margin-top: 5%;
+    left: 100px;
+    bottom: -5px;
     z-index: 10;
-    padding: 15px;
+    padding: 0px;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
     border-top: 25px solid #C3E4E7;
