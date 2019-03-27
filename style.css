@@ -915,7 +915,8 @@
     border: 1px solid #fff;
     padding: 10px;
     background: #00A1A8;
-    font-weight: 600;
+    font-weight: bold;
+    color: #fff;
 }
 
 /*Celda 4*/
@@ -953,7 +954,7 @@
     border: 1px solid #fff;
     padding: 10px;
     background: #F3A7C9;
-    
+    font-weight: bold;    
 }
 
 /*Celda 8*/
