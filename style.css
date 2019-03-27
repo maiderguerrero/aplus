@@ -856,7 +856,7 @@
 
 .bck-box {
 	margin: 10px 10px 20px 10px;
-    border: 2px solid #8b9c23;
+    border: 2px solid transparent;
     border-radius: 0px;
     background: #fff;
     padding: 6px 20px;
