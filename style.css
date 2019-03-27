@@ -1141,7 +1141,7 @@
     border-radius: 20px;
 }
 
-.bck-box.bck-box10:before {
+.bck-box.bck-box10.center:before {
 	background-image: url(images/abonne-toi_1.png);
     background-repeat: no-repeat;
     background-size: contain;
