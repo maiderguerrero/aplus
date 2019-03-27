@@ -872,9 +872,21 @@
 /*TABLA 2*/
 
 .table-2{
+	border: 1px solid #00A1A8;
+}
+
+
+/*TABLA 3*/
+
+.table-3{
 	border: 4px solid #F191BC;
 }
 
+/*TABLA 4*/
+
+.table-4{
+	border: 1px solid #F3A7C9;
+}
 
 
 /*Celda 1*/
@@ -909,6 +921,15 @@
 /*Celda 4*/
 
 .content table:not(.rf-tablegrid) td.bck-td-4 {
+    border: 1px solid #F3A7C9;
+    padding: 10px;
+    background: #fff;
+    font-weight: 600;
+}
+
+/*Celda 5*/
+
+.content table:not(.rf-tablegrid) td.bck-td-5 {
     border-bottom: 3px solid #F8CDE2;
     border-left: 2px solid #F8CDE2;
     border-right: 2px solid #F8CDE2;
@@ -918,17 +939,17 @@
     font-weight: bold;
 }
 
-/*Celda 5*/
+/*Celda 6*/
 
-.content table:not(.rf-tablegrid) td.bck-td-5 {
+.content table:not(.rf-tablegrid) td.bck-td-6 {
     border: 2px solid #F8CDE2;
     padding: 10px;
     background: #fff;
     font-weight: 600;
 }
 
-/*Celda 6*/
-.content table:not(.rf-tablegrid) td.bck-td-6 {
+/*Celda 7*/
+.content table:not(.rf-tablegrid) td.bck-td-7 {
     border: 3px solid #E3E3E3;
     padding: 10px;
     background: #fff;
