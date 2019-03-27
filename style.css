@@ -375,9 +375,10 @@
 /*TITULO 1*/
 
 .bck-title1 {
-	color: #0087CC;
-	font-size: 4rem;
+	color: #244294;
+	font-size: 3.5rem;
 	font-weight: bold;
+	margin-bottom: 30px;
        
 }
 
@@ -1090,6 +1091,7 @@
 .bck-box.bck-box8 {
 	border: 3px solid #01A1A8;
     background: #fff;
+    margin-bottom: 40px;
 
 }
 
@@ -1103,6 +1105,7 @@
 .bck-box.bck-box9 {
 	background: #fff;
 	padding: 0px;
+	margin-bottom: 40px;
 }
 
 .bck-box9 .bck-title {
