@@ -914,14 +914,14 @@
 .content table:not(.rf-tablegrid) td.bck-td-3 {
     border: 1px solid #fff;
     padding: 10px;
-    background: #F3A7C9;
+    background: #00A1A8;
     font-weight: 600;
 }
 
 /*Celda 4*/
 
 .content table:not(.rf-tablegrid) td.bck-td-4 {
-    border: 1px solid #F3A7C9;
+    border: 1px solid #00A1A8;
     padding: 10px;
     background: #fff;
     font-weight: 600;
