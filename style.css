@@ -917,6 +917,14 @@
 	background: #fff;
 }
 
+.bck-box3 .bck-title {
+	color: #fff;
+	font-size: 2.5rem;
+    font-weight: 900;
+    background: #C0C9E8;
+}
+
+
 /* Caja 4 */
 .bck-box.bck-box4 {
 	border: 2px solid #B3B2B2;
