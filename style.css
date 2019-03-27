@@ -1145,8 +1145,11 @@
 	background-image: url(images/abonne-toi_1.png);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position-x: left;
-    background-position: 0px;
+    position: absolute;
+    left: -42px;
+    z-index: 100;
+    padding: 70px;
+    display: inline-block;
 }
 
 /*Caja 11*/
