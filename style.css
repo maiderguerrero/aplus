@@ -895,7 +895,7 @@
 .content table:not(.rf-tablegrid) td.bck-td-3 {
     border-bottom: 3px solid #F8CDE2;
     border-left: 2px solid #F8CDE2;
-    border-right: 2px solid #F8CDE2
+    border-right: 2px solid #F8CDE2;
     padding: 10px;
     background: #FDEFF6;
 }
