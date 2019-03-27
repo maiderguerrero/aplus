@@ -916,7 +916,7 @@
     content: '';
     display: block;
     position: absolute;
-    left: 225px;
+    left: 60%;
     bottom: 25px;
     z-index: 10;
     padding: 0px;
