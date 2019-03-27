@@ -825,12 +825,23 @@
 /*LISTA DESORDENADA 5*/
 
 .texto_curso .bck-ul5 li:before, 
-.workspace .bck-ul45 li ul li:before, 
+.workspace .bck-ul5 li ul li:before, 
 .cke_contents .bck-ul5 li:before {
     width: 6px;
     height: 6px;
     background-color: #fff;
     border: 1px solid #40A1A8;
+    margin-left: -20px;
+}
+
+/*LISTA DESORDENADA 6*/
+
+.texto_curso .bck-ul6 li:before, 
+.workspace .bck-ul6 li ul li:before, 
+.cke_contents .bck-ul6 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
     margin-left: -20px;
 }
 
