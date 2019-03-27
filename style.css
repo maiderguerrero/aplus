@@ -871,6 +871,7 @@
 	border: none;
 	background: #C3E4E7;
 	border-radius: 20px;
+	margin-bottom: 50px;
 }
 
 .bck-box1 .bck-title {
@@ -885,7 +886,7 @@
     display: block;
     position: absolute;
     left: 100px;
-    bottom: -5px;
+    bottom: 25px;
     z-index: 10;
     padding: 0px;
     border-left: 25px solid transparent;
