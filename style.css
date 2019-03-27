@@ -737,6 +737,34 @@
     font-weight: bold;
 }
 
+/*LISTA ORDENADA 10*/
+
+.content .bck-ol10 li,
+.cke_contents .bck-ol10 li {
+	font-weight: normal;
+	color: #333;
+	padding-left: 70px;
+	}
+
+.content .bck-ol10 li:before,
+.cke_contents .bck-ol10 li:before {
+	content: counter(bck-li-counter, upper-alpha) ".";
+    color: #fff;
+    background: #fff;
+    padding: 0px;
+    position: absolute;
+    top: 4px;
+    left: 40px;
+    width: 25px;
+    text-align: center;
+    height: auto;
+    font-size: 1.7rem;
+    text-shadow: none;
+    transform: none;
+    margin-right: -10px;
+    font-weight: bold;
+}
+
 /*LISTA DESORDENADA 1*/
 
 .texto_curso .bck-ul1 li:before, 
