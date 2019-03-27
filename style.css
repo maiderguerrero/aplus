@@ -836,6 +836,12 @@
 
 /*LISTA DESORDENADA 6*/
 
+.texto_curso .bck-ul6 li, 
+.workspace .bck-ul6 li ul li, 
+.cke_contents .bck-ul6 li{
+	padding-left: 35px;
+}
+
 .texto_curso .bck-ul6 li:before, 
 .workspace .bck-ul6 li ul li:before, 
 .cke_contents .bck-ul6 li:before {
@@ -843,6 +849,7 @@
     height: 6px;
     background-color: #fff;
     margin-left: -20px;
+    border-radius: 0px;
 }
 
 /*CAJAS*/
