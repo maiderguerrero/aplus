@@ -1146,10 +1146,11 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    left: -42px;
+    left: 0px;
+    top: 0px;
     z-index: 100;
     padding: 70px;
-    display: inline-block;
+    display: block;
 }
 
 /*Caja 11*/
