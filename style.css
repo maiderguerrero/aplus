@@ -1157,15 +1157,27 @@
 /*Caja 11*/
 
 .bck-box.bck-box11 {
-	border: none;
-	background: #fff;
+	background-color: #fff;
+    border-top: 5px solid #B8D171;
+    border-right: 5px solid #B8D171;
+    border-bottom: 3px solid #B8D171;
+    border-left: 50px solid #B8D171;
+    border-radius: 20px;
 
 }
 
-.bck-box11 .bck-title {
-	color: #0087CC;
-	font-size: 2.5rem;
-    font-weight: 600;
+.bck-box11.bck-title:before {
+	content: " ";
+	background-image: url(images/abonne-toi_3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 25px;
+    margin-top: 10px;
+    z-index: 100;
+    padding: 70px;
+    display: block;
+
 }
 
 
