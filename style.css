@@ -871,7 +871,7 @@
 .content table:not(.rf-tablegrid) td.bck-td-1 {
     border: 3px solid #fff;
     padding: 10px;
-    background: #0087CC;
+    background: #00A1A8;
     color: #fff;
     font-weight: 600;
 }
@@ -881,16 +881,16 @@
 .content table:not(.rf-tablegrid) td.bck-td-2 {
     border: 3px solid #fff;
     padding: 10px;
-    background: #ADCDED;
+    background: #F3A7C9;
     font-weight: 600;
 }
 
 /*Celda 3*/
 
 .content table:not(.rf-tablegrid) td.bck-td-3 {
-    border: 3px solid #fff;
+    border: 3px solid #F8CDE2;
     padding: 10px;
-    background: #D8E6F7;
+    background: #FDEFF6;
 }
 
 /*Celda 4*/
