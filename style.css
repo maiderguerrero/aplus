@@ -950,11 +950,20 @@
 
 /*Celda 7*/
 .content table:not(.rf-tablegrid) td.bck-td-7 {
-    border: 3px solid #E3E3E3;
+    border: 1px solid #fff;
+    padding: 10px;
+    background: #F3A7C9;
+    
+}
+
+/*Celda 8*/
+.content table:not(.rf-tablegrid) td.bck-td-8 {
+    border: 1px solid #F3A7C9;
     padding: 10px;
     background: #fff;
     
 }
+
 
 /*Énfasis*/
 .bck-enfasis-1 {
