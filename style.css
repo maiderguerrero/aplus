@@ -982,7 +982,8 @@
     padding: 0px;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
-    border-top: 25px solid #FEF5ED;
+    border-bottom: 25px solid #FEF5ED;
+    border-top: none;
 
 }
 
