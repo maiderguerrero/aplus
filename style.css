@@ -890,6 +890,8 @@
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
     border-top: 25px solid #C3E4E7;
+    width: 0px;
+    height: 0px;
 
 }
 
@@ -906,7 +908,7 @@
 .bck-box2 .bck-title {
 	color: #01A1A8;
 	font-size: 2.5rem;
-    font-weight: 600;
+    font-weight: 900;
 }
 
 /* Caja 3 */
