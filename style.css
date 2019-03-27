@@ -1188,9 +1188,9 @@
 	background-color: #F7FAEF;
     border-radius: 20px;
     margin-bottom: 40px;
-    border: 5px solid gray;
-    -webkit-box-shadow:inset 0.5px 0.5px 0.5px 1px #000000;
-	box-shadow:inset 0.5px 0.5px 0.5px 1px #000000;
+    border: 10px solid gray;
+    -webkit-box-shadow:inset 0.5px 0.5px 0px 2px #000000;
+	box-shadow:inset 0.5px 0.5px 0px 2px #000000;
 
 }
 
