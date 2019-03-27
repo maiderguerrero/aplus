@@ -1106,9 +1106,9 @@
 	background-position: center center;
 	display: inline-block;
 	vertical-align: middle;
-	height: 40px;
-	width: 54px;
-	margin-top: -16px;
+	height: 30px;
+	width: 60px;
+	margin-top: -5px;
 }
 
 .item-container .icon-plus-1:before {
