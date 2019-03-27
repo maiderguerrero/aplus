@@ -1147,8 +1147,8 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 25px;
+    margin-top: 10px;
     z-index: 100;
     padding: 70px;
     display: block;
