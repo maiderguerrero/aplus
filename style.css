@@ -865,7 +865,7 @@
 /*TABLA 1*/
 
 .table-1{
-	border: 5px solid #F191BC;
+	border: 4px solid #F191BC;
 
 }
 
@@ -893,7 +893,7 @@
 /*Celda 3*/
 
 .content table:not(.rf-tablegrid) td.bck-td-3 {
-    border: 2px solid #F8CDE2;
+    border: 3px solid #F8CDE2;
     padding: 10px;
     background: #FDEFF6;
 }
