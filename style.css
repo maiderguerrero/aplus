@@ -893,7 +893,9 @@
 /*Celda 3*/
 
 .content table:not(.rf-tablegrid) td.bck-td-3 {
-    border: 3px solid #F8CDE2;
+    border-bottom: 3px solid #F8CDE2;
+    border-left: 2px solid #F8CDE2;
+    border-right: 2px solid #F8CDE2
     padding: 10px;
     background: #FDEFF6;
 }
@@ -901,9 +903,9 @@
 /*Celda 4*/
 
 .content table:not(.rf-tablegrid) td.bck-td-4 {
-    border: 3px solid #fff;
+    border: 2px solid #F8CDE2;
     padding: 10px;
-    background: #E0DCD5;
+    background: #fff;
     font-weight: 600;
 }
 
