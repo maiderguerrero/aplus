@@ -1137,13 +1137,14 @@
     border-top: 5px solid #F0F5E3;
     border-right: 5px solid #F0F5E3;
     border-bottom: 3px solid #F0F5E3;
-    border-left: 50px solid #F0F5E3;
+    border-left: 20px solid #F0F5E3;
     border-radius: 20px;
     background-image: url(images/abonne-toi_2.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: left;
     background-position: 0px;
+    padding-left: 50px;
 }
 
 /*Caja 11*/
