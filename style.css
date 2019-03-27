@@ -1046,10 +1046,10 @@
     margin-top: 17px;
     z-index: 10;
     padding: 0px;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
-    border-top: 25px solid #FDEFF6;
-    border-bottom: none;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid #FDEFF6;
+    border-right: none;
     height: 0;
 
 }
