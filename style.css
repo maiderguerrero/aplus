@@ -923,8 +923,10 @@
 }
 
 .bck-box3 .bck-content {
-	border: 2px solid #0087CC;
+	border: 2px solid #C0C9E8;
 	border-radius: 20px;
+	background: #0087CC;
+	font-weight: bold;
 }
 
 
