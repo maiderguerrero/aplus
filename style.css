@@ -749,7 +749,7 @@
 .content .bck-ol10 li:before,
 .cke_contents .bck-ol10 li:before {
 	content: counter(bck-li-counter, upper-alpha) ".";
-    color: #fff;
+    color: #333;
     background: #fff;
     padding: 0px;
     position: absolute;
