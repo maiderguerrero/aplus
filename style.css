@@ -379,32 +379,6 @@
        
 }
 
-/*TITULO 2*/
-
-.bck-title2 {
-    color: #0087CC;
-    font-size: 3.4rem;
-}
-
-/*TITULO 3*/
-
-.bck-title3 {
-    color: #fff;
-    font-size: 2rem;
-    font-weight: bold;
-    background-color: #0087CC;
-    padding: 5px 10px;
-    width: fit-content;
-}
-
-/*TITULO 4*/
-
-.bck-title4 {
-    color: #5DBFC0;
-    font-size: 2.4rem;
-    font-weight: bold;
-}
-
 /* Lists */
 
 .texto_curso ul li,
@@ -1086,26 +1060,35 @@
 
 /* Caja 8*/
 .bck-box.bck-box8 {
+	border: 1px solid #E72186;
+    background: #fff;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+
+
+/* Caja 9*/
+.bck-box.bck-box9 {
 	border: 3px solid #01A1A8;
     background: #fff;
     margin-bottom: 40px;
 
 }
 
-.bck-box8 .bck-title {
+.bck-box9 .bck-title {
 	color: #01A1A8;
 	font-size: 2.5rem;
     font-weight: 900;
 }
 
-/* Caja 9 */
-.bck-box.bck-box9 {
+/* Caja 10 */
+.bck-box.bck-box10 {
 	background: #fff;
 	padding: 0px;
 	margin-bottom: 40px;
 }
 
-.bck-box9 .bck-title {
+.bck-box10 .bck-title {
 	border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     color: #fff;
@@ -1116,7 +1099,7 @@
     width: 50%;
 }
 
-.bck-box9 .bck-content {
+.bck-box10 .bck-content {
 	border: 4px solid #C0C9E8;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -1128,8 +1111,8 @@
 }
 
 
-/* Caja 10 */
-.bck-box.bck-box10 {
+/* Caja 11 */
+.bck-box.bck-box11 {
 	background-color: #fff;
     border-top: 5px solid #F0F5E3;
     border-right: 5px solid #F0F5E3;
@@ -1139,7 +1122,7 @@
     margin-bottom: 40px;
 }
 
-.bck-box.bck-box10:before {
+.bck-box.bck-box11:before {
 	content: " ";
 	background-image: url(images/abonne-toi_1.png);
     background-repeat: no-repeat;
@@ -1152,9 +1135,9 @@
     display: block;
 }
 
-/*Caja 11*/
+/*Caja 12*/
 
-.bck-box.bck-box11 {
+.bck-box.bck-box12 {
 	background-color: #fff;
     border-top: 5px solid #B8D171;
     border-right: 5px solid #B8D171;
@@ -1165,7 +1148,7 @@
 
 }
 
-.bck-box.bck-box11:before {
+.bck-box.bck-box12:before {
 	content: " ";
 	background-image: url(images/abonne-toi_3.png);
     background-repeat: no-repeat;
@@ -1179,9 +1162,9 @@
 
 }
 
-/*Caja 12*/
+/*Caja 13*/
 
-.bck-box.bck-box12 {
+.bck-box.bck-box13 {
 	background-color: #F7FAEF;
     border-radius: 20px;
     margin-bottom: 40px;
@@ -1192,7 +1175,7 @@
 
 }
 
-.bck-box12 .bck-title{
+.bck-box13 .bck-title{
 	font-weight: bold;
 	text-align: center;
 }
