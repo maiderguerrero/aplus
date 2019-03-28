@@ -71,11 +71,27 @@
 	}
 
 	.content_type_clase_aplus #actividad .seccion_rosa .content .header .title h3 {
-		color: #E72186;
+		position: relative;
+	    display: block;
+	    width: fit-content;
+	    margin: 0;
+	    padding: 10px 20px 10px 0px;
+	    color: #E72186;
+	    font-size: 3.5rem;
+	    font-weight: bold;
+	    text-align: left;
 	}
 
 	.seccion_verde .content_type_clase_aplus #actividad .content .header .title h3 {
-		color: #A4C840;
+		position: relative;
+	    display: block;
+	    width: fit-content;
+	    margin: 0;
+	    padding: 10px 20px 10px 0px;
+	    color: #A4C840;
+	    font-size: 3.5rem;
+	    font-weight: bold;
+	    text-align: left;
 	}
 
 
