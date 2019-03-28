@@ -893,15 +893,6 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 	background: url(images/icono_audio_1.png) center center / cover;
 }
 
-#actividad .audio_rosa .player.audio {
-	background: url(images/icono_audio_2.png) center center / cover;
-}
-
-#actividad .audio_verde .player.audio {
-	background: url(images/icono_audio_3.png) center center / cover;
-}
-
-
 .item-container .icon:before {
 	content: "";
 	background-repeat: no-repeat;
