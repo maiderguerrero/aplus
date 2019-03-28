@@ -258,6 +258,18 @@
     	padding-right: 100px;
 	}
 
+	.seccion_rosa .navbar-bottom {
+		background: #E72186 !important;
+    	padding-left: 100px;
+    	padding-right: 100px;
+	}
+
+	.seccion_verde .navbar-bottom {
+		background: #A4C840 !important;
+    	padding-left: 100px;
+    	padding-right: 100px;
+	}
+
 	.logo-publisher {
 		display: none;
 	}
