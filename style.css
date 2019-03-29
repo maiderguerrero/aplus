@@ -112,14 +112,7 @@
 		margin-bottom: 15px;
 	}
 
-/*
 
-	.content_type_clase_aplus #actividad .texto_curso li,
-	.content_type_clase_aplus #actividad .workspace ul li li {
-		margin-bottom: 10px;
-	}
-
-	*/
 
 	#actividad .class_slide {
     	padding: 40px 0 0;
@@ -368,6 +361,44 @@
 	}
 
 /**/
+
+/*TOC*/
+
+#indice .units ul li {
+    background: #00A1A8;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 0px;
+    margin-bottom: 8px;
+    padding: 0px;
+}
+
+#indice .units ul li.active:not(.disabled), 
+body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+#indice .units ul li:focus:not(.disabled) {
+    background: #FECA11;
+}
+
+#indice .units ul li a .title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #dedede;
+    margin: -21px 0 0 35px;
+    line-height: 18px;
+    display: block;
+}
+
+.btn-primary, 
+.btn-primary.disabled, 
+.btn-primary.disabled:hover, 
+.btn-primary.disabled:focus {
+    color: #fff;
+    background-color: #FECA11;
+    border-color: transparent;
+    opacity: 1;
+    border-radius: 0px;
+}
+
 
 /*TITULO 1*/
 
@@ -1060,7 +1091,7 @@
 
 /* Caja 8*/
 .bck-box.bck-box8 {
-	border: 1px solid #E72186;
+	border: 2px solid #E72186;
     background: #fff;
     margin-bottom: 40px;
     border-radius: 10px;
