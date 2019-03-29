@@ -320,7 +320,7 @@
     	  color: transparent;
 	}
 	#bottom-navigator li.active {
-		background: #F4F2F0;
+		background: #bae2e6;
    		color: transparent;
 	}
 	#bottom-navigator.show_left:before {
@@ -893,6 +893,7 @@ a:hover, a:active, a:focus {
     font-weight: 600;
 }
 
+/*
 
 .bck-box.bck-box1:before{
     content: '';
@@ -908,6 +909,8 @@ a:hover, a:active, a:focus {
     border-bottom: none;
 
 }
+*/
+
 
 /* Caja 2 */
 .bck-box.bck-box2 {
@@ -924,6 +927,7 @@ a:hover, a:active, a:focus {
     font-weight: 600;
 }
 
+/*
 
 .bck-box.bck-box2:before{
     content: '';
@@ -940,6 +944,8 @@ a:hover, a:active, a:focus {
 
 }
 
+*/
+
 /* Caja 3 */
 .bck-box.bck-box3 {
 	border: none;
@@ -955,6 +961,7 @@ a:hover, a:active, a:focus {
     font-weight: 600;
 }
 
+/*
 
 .bck-box.bck-box3:before{
     content: '';
@@ -971,6 +978,9 @@ a:hover, a:active, a:focus {
 
 }
 
+*/
+
+
 /* Caja 4 */
 .bck-box.bck-box4 {
 	border: none;
@@ -986,6 +996,7 @@ a:hover, a:active, a:focus {
     font-weight: 600;
 }
 
+/*
 
 .bck-box.bck-box4:before{
     content: '';
@@ -1002,6 +1013,7 @@ a:hover, a:active, a:focus {
     height: 0;
 
 }
+*/
 
 /* Caja 5 */
 .bck-box.bck-box5 {
@@ -1018,6 +1030,7 @@ a:hover, a:active, a:focus {
     font-weight: 600;
 }
 
+/*
 
 .bck-box.bck-box5:before{
     content: '';
@@ -1033,6 +1046,7 @@ a:hover, a:active, a:focus {
     border-bottom: none;
 
 }
+*/
 
 /*Caja 6*/
 .bck-box.bck-box6 {
