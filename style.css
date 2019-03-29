@@ -870,9 +870,9 @@ a:hover, a:active, a:focus {
 
 /*LISTA DESORDENADA 8*/
 
-.texto_curso .bck-ul6 li:before, 
-.workspace .bck-ul6 li ul li:before, 
-.cke_contents .bck-ul6 li:before {
+.texto_curso .bck-ul8 li:before, 
+.workspace .bck-ul8 li ul li:before, 
+.cke_contents .bck-ul8 li:before {
     width: 6px;
     height: 6px;
     background-color: #A4C840;
@@ -881,9 +881,9 @@ a:hover, a:active, a:focus {
 
 /*LISTA DESORDENADA 9*/
 
-.texto_curso .bck-ul7 li:before, 
-.workspace .bck-ul7 li ul li:before, 
-.cke_contents .bck-ul7 li:before {
+.texto_curso .bck-ul9 li:before, 
+.workspace .bck-ul9 li ul li:before, 
+.cke_contents .bck-ul9 li:before {
     width: 6px;
     height: 6px;
     background-color: #fff;
