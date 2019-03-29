@@ -565,7 +565,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ol4 li:before {
     content: counter(bck-li-counter) ".";
     position: absolute;
-    top: -5px;
+    top: 0px;
     left: 40px;
     display: inline-block;
     width: 40px;
@@ -602,7 +602,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ol5 li:before {
     content: counter(bck-li-counter) ".";
     position: absolute;
-    top: -5px;
+    top: 0px;
     left: 40px;
     display: inline-block;
     width: 40px;
@@ -640,7 +640,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ol6 li:before {
     content: counter(bck-li-counter) ".";
     position: absolute;
-    top: -5px;
+    top: 0px;
     left: 40px;
     display: inline-block;
     width: 40px;
