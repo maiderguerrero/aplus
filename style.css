@@ -576,7 +576,7 @@ a:hover, a:active, a:focus {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 0px;
-    background: #fff;
+    background: transparent;
     color: #00A1A8;
     font-size: 1.9rem;
     font-weight: bold;
@@ -612,7 +612,7 @@ a:hover, a:active, a:focus {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 0px;
-    background: #fff;
+    background: transparent;
     color: #E72186;
     font-size: 1.9rem;
     font-weight: bold;
@@ -649,7 +649,7 @@ a:hover, a:active, a:focus {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 0px;
-    background: #fff;
+    background: transparent;
     color: #A4C840;
     font-size: 1.9rem;
     font-weight: bold;
@@ -759,7 +759,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ol10 li:before {
 	content: counter(bck-li-counter, upper-alpha) ".";
     color: #333;
-    background: #fff;
+    background: transparent;
     padding: 0px;
     position: absolute;
     top: 4px;
