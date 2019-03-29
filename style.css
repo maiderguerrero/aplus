@@ -848,15 +848,60 @@ a:hover, a:active, a:focus {
 
 /*LISTA DESORDENADA 6*/
 
-.texto_curso .bck-ul6 li, 
-.workspace .bck-ul6 li ul li, 
-.cke_contents .bck-ul6 li{
-	padding-left: 35px;
+.texto_curso .bck-ul6 li:before, 
+.workspace .bck-ul6 li ul li:before, 
+.cke_contents .bck-ul6 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #E72186;
+    margin-left: -20px;
 }
+
+/*LISTA DESORDENADA 7*/
+.texto_curso .bck-ul7 li:before, 
+.workspace .bck-ul7 li ul li:before, 
+.cke_contents .bck-ul7 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
+    border: 1px solid #E72186;
+    margin-left: -20px;
+}
+
+/*LISTA DESORDENADA 8*/
 
 .texto_curso .bck-ul6 li:before, 
 .workspace .bck-ul6 li ul li:before, 
 .cke_contents .bck-ul6 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #A4C840;
+    margin-left: -20px;
+}
+
+/*LISTA DESORDENADA 9*/
+
+.texto_curso .bck-ul7 li:before, 
+.workspace .bck-ul7 li ul li:before, 
+.cke_contents .bck-ul7 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
+    border: 1px solid #A4C840;
+    margin-left: -20px;
+}
+
+/*LISTA DESORDENADA 10*/
+
+.texto_curso .bck-ul10 li, 
+.workspace .bck-ul10 li ul li, 
+.cke_contents .bck-ul10 li{
+	padding-left: 35px;
+}
+
+.texto_curso .bck-ul10 li:before, 
+.workspace .bck-ul10 li ul li:before, 
+.cke_contents .bck-ul10 li:before {
     width: 6px;
     height: 6px;
     background-color: #fff;
@@ -884,7 +929,7 @@ a:hover, a:active, a:focus {
 	background: #C3E4E7;
 	border-radius: 20px;
 	margin-bottom: 50px;
-	padding: 15px 20px 30px 5px;
+	padding: 15px 20px 30px 15px;
 }
 
 .bck-box1 .bck-title {
@@ -918,7 +963,7 @@ a:hover, a:active, a:focus {
 	background: #EEF4DE;
 	border-radius: 20px;
 	margin-bottom: 50px;
-	padding: 15px 20px 30px 5px;
+	padding: 15px 20px 30px 15px;
 }
 
 .bck-box2 .bck-title {
@@ -952,7 +997,7 @@ a:hover, a:active, a:focus {
 	background: #ECF6F7;
 	border-radius: 20px;
 	margin-bottom: 50px;
-	padding: 15px 20px 30px 5px;
+	padding: 15px 20px 30px 15px;
 }
 
 .bck-box3 .bck-title {
@@ -987,7 +1032,7 @@ a:hover, a:active, a:focus {
 	background: #FEF5ED;
 	border-radius: 20px;
 	margin-top: 50px;
-	padding: 15px 20px 30px 5px;
+	padding: 15px 20px 30px 15px;
 }
 
 .bck-box4 .bck-title {
@@ -1021,7 +1066,7 @@ a:hover, a:active, a:focus {
 	background: #FDEFF6;
 	border-radius: 20px;
 	margin-bottom: 50px;
-	padding: 15px 20px 30px 5px;
+	padding: 15px 20px 30px 15px;
 }
 
 .bck-box5 .bck-title {
