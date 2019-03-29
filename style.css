@@ -406,6 +406,17 @@ a:hover, a:active, a:focus {
     text-decoration: none;
 }
 
+/*botón corregir*/
+.btn-danger, .btn-danger[disabled] {
+	color: #fff;
+    background-color: #fc4237;
+    border-color: transparent;
+    border-radius: 0px;
+
+}
+
+/**/
+
 /*TITULO 1*/
 
 .bck-title1 {
