@@ -1437,7 +1437,7 @@ a:hover, a:active, a:focus {
 	vertical-align: middle;
 	height: 50px;
 	width: 85px;
-	margin-top: -5px;
+	margin-top: 0px;
 }
 
 .item-container .icon-plus-1:before {
