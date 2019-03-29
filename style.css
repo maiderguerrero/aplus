@@ -382,7 +382,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li a .title {
     font-size: 16px;
     font-weight: 700;
-    color: #dedede;
+    color: #fff;
     margin: -21px 0 0 35px;
     line-height: 18px;
     display: block;
