@@ -400,6 +400,11 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     border-radius: 0px;
 }
 
+a:hover, a:active, a:focus {
+    outline: 0;
+    color: #00a1a8;
+    text-decoration: none;
+}
 
 /*TITULO 1*/
 
