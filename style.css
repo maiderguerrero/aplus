@@ -788,6 +788,39 @@ a:hover, a:active, a:focus {
     font-weight: bold;
 }
 
+/*LISTA ORDENADA 11*/
+
+.content .bck-ol11 li,
+.cke_contents .bck-ol11 li {
+  list-style-type: none;
+  padding-left: 50px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+  counter-increment: bck-li-counter;
+  position: relative;
+  line-height: 1.1rem;
+  font-weight: bold;
+  color: #35A447;
+}
+
+.content .bck-ol11 li:before,
+.cke_contents .bck-ol11 li:before {
+    content: counter(bck-li-counter);
+    color: #fff;
+    background: #71B569;
+    padding: 5px 0px 5px 0px;
+    border-radius: 20%;
+    position: absolute;
+    top: 0px;
+    width: 40px;
+    text-align: center;
+    height: auto;
+    font-size: 2.7rem;
+    text-shadow: 4px 5px 10px #000000ad;
+    /*transform: skew(-0.01turn, -188deg);*/
+
+}
+
 /*LISTA DESORDENADA 1*/
 
 .texto_curso .bck-ul1 li:before, 
