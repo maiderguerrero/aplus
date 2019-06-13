@@ -1495,6 +1495,14 @@ a:hover, a:active, a:focus {
     
 }
 
+/*Celda 9*/
+.content table:not(.rf-tablegrid) td.bck-td-9 {
+    border: 1px solid #A4C840;
+    padding: 10px;
+    background: #EEF4DE;
+    font-weight: bold;    
+}
+
 
 /*Énfasis*/
 .bck-enfasis-1 {
