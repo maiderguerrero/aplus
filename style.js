@@ -64,6 +64,7 @@
 				{ name: 'Celda 8', element: 'td', attributes: { 'class': 'bck-td-8' } },
 				{ name: 'Celda 9', element: 'td', attributes: { 'class': 'bck-td-9' } },
 				{ name: 'Celda 10', element: 'td', attributes: { 'class': 'bck-td-10' } },
+				{ name: 'Celda 11', element: 'td', attributes: { 'class': 'bck-td-11' } },
 
 			
 				{ name: 'Icono Plus 1', element: 'span', attributes: { 'class': 'icon icon-plus-1' } },
