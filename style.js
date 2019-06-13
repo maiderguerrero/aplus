@@ -51,6 +51,8 @@
 				{ name: 'Tabla 2', element: 'table', attributes: { 'class': 'table-2' } },
 				{ name: 'Tabla 3', element: 'table', attributes: { 'class': 'table-3' } },
 				{ name: 'Tabla 4', element: 'table', attributes: { 'class': 'table-4' } },
+				{ name: 'Tabla 5', element: 'table', attributes: { 'class': 'table-5' } },
+				{ name: 'Tabla 6', element: 'table', attributes: { 'class': 'table-6' } },
 
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td-2' } },
