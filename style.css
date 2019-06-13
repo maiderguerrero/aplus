@@ -1511,6 +1511,14 @@ a:hover, a:active, a:focus {
     font-weight: bold;    
 }
 
+/*Celda 11*/
+.content table:not(.rf-tablegrid) td.bck-td-11 {
+    border: 2px solid #FFF;
+    padding: 10px;
+    background: #D5E3A8;
+    font-weight: bold;    
+}
+
 
 /*Énfasis*/
 .bck-enfasis-1 {
