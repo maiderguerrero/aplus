@@ -1003,6 +1003,17 @@ a:hover, a:active, a:focus {
     border-radius: 0px;
 }
 
+/*LISTA DESORDENADA 11*/
+
+.texto_curso .bck-ul11 li:before, 
+.workspace .bck-ul11 li ul li:before, 
+.cke_contents .bck-ul11 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #35A447;
+    margin-left: -20px;
+}
+
 /*CAJAS*/
 
 .bck-box {
