@@ -1399,17 +1399,25 @@ a:hover, a:active, a:focus {
 
 
 /*TABLA 3*/
-
 .table-3{
   border: 4px solid #F191BC;
 }
 
 /*TABLA 4*/
-
 .table-4{
   border: 2px solid #F3A7C9;
 }
 
+/*TABLA 5*/
+.table-5{
+  border: 4px solid #E2ECC4;
+}
+
+
+/*TABLA 6*/
+.table-6{
+  border: 4px solid #D5E3A8;
+}
 
 /*Celda 1*/
 
