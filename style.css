@@ -455,10 +455,10 @@ a:hover, a:active, a:focus {
   background-color: #414141;
 }
 
-.content .bck-ol,
-.cke_contents .bck-ol,
-.content ol,
-.cke_contents ol {
+.content .bck-ol li,
+.cke_contents .bck-ol li,
+.content ol li,
+.cke_contents ol li {
   list-style-type: none;
   padding-left: 0;
   counter-reset: bck-li-counter;
@@ -499,7 +499,6 @@ a:hover, a:active, a:focus {
     height: auto;
     font-size: 2.7rem;
     text-shadow: 4px 5px 10px #000000ad;
-    /*transform: skew(-0.01turn, -188deg);*/
 
 }
 
@@ -537,7 +536,6 @@ a:hover, a:active, a:focus {
     height: auto;
     font-size: 2.7rem;
     text-shadow: 4px 5px 10px #000000ad;
-    /*transform: skew(-0.01turn, -188deg);*/
 }
 
 /*LISTA ORDENADA 3*/
