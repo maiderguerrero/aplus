@@ -62,6 +62,7 @@
 				{ name: 'Icono Plus 1', element: 'span', attributes: { 'class': 'icon icon-plus-1' } },
 				{ name: 'Icono Plus 2', element: 'span', attributes: { 'class': 'icon icon-plus-2' } },
 				{ name: 'Icono Plus 3', element: 'span', attributes: { 'class': 'icon icon-plus-3' } },
+				{ name: 'Icono Plus 4', element: 'span', attributes: { 'class': 'icon icon-plus-4' } },
 				
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box1' } },
