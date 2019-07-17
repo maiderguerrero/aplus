@@ -465,18 +465,6 @@ a:hover, a:active, a:focus {
   color: #333;
 }
 
-.content .bck-ol:before,
-.cke_contents .bck-ol:before,
-.content ol:before,
-.cke_contents ol:before {
-  content: counter(bck-li-counter) ".";
-  background:transparent;
-  color: #333;
-  font-size: 1.9rem;
-
-}
-
-
 /*LISTA ORDENADA 1*/
 
 .content .bck-ol1 li,
