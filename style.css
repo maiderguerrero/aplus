@@ -1207,6 +1207,7 @@ a:hover, a:active, a:focus {
 }
 
 
+/*
 .bck-box.bck-box6:before{
     content: '';
     display: block;
@@ -1223,6 +1224,8 @@ a:hover, a:active, a:focus {
 
 }
 
+*/
+
 /*Caja 7*/
 .bck-box.bck-box7 {
   border: none;
@@ -1238,6 +1241,7 @@ a:hover, a:active, a:focus {
     font-weight: 600;
 }
 
+/*
 
 .bck-box.bck-box7:before{
     content: '';
@@ -1254,6 +1258,7 @@ a:hover, a:active, a:focus {
     height: 0;
 
 }
+*/
 
 /* Caja 8*/
 .bck-box.bck-box8 {
