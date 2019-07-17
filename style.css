@@ -151,6 +151,28 @@
       padding: 10px 4px;
   }
 
+  /*crucigrama - palabras cruzadas*/
+
+  .slide.crosswords-puzzle .enunciados li:before {
+    content: counter(bck-li-counter) ".";
+    color: #333;
+    font-size: 2rem;
+    background: transparent;
+    box-shadow: none;
+    text-shadow: 0px 0px 0px transparent;
+}
+
+.slide.crosswords-puzzle .enunciados {
+    border: 2px solid #dedede;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    display: inline-block;
+    width: 320px;
+    padding: 1rem 3rem;
+    line-height: 2.1rem;
+}
+
   /*señalar respuesta*/
 
   #actividad .workspace.chooseblanks .inline-answer a {
