@@ -959,7 +959,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ol15 li:before {
     content: counter(bck-li-counter, upper-alpha) " ";
     color: #fff;
-    background: #A4C8406;
+    background: #A4C840;
     padding: 0px;
     border-radius: 100%;
     position: absolute;
