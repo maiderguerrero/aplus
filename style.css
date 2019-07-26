@@ -898,7 +898,7 @@ a:hover, a:active, a:focus {
 
 .content .bck-ol13 li:before,
 .cke_contents .bck-ol13 li:before {
-    content: counter(bck-li-counter, upper-alpha) ".";
+    content: counter(bck-li-counter, upper-alpha) " ";
     color: #fff;
     background: #00A1A8;
     padding: 0px;
@@ -928,7 +928,7 @@ a:hover, a:active, a:focus {
 
 .content .bck-ol14 li:before,
 .cke_contents .bck-ol14 li:before {
-    content: counter(bck-li-counter, upper-alpha) ".";
+    content: counter(bck-li-counter, upper-alpha) " ";
     color: #fff;
     background: #E72186;
     padding: 0px;
