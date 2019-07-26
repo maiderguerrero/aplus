@@ -34,6 +34,7 @@
 				{ name: 'Lista ordenada 10', element: 'ol', attributes: { 'class': 'bck-ol bck-ol10' } },
 				{ name: 'Lista ordenada 11', element: 'ol', attributes: { 'class': 'bck-ol bck-ol11' } },
 				{ name: 'Lista ordenada 12', element: 'ol', attributes: { 'class': 'bck-ol bck-ol12' } },
+				{ name: 'Lista ordenada 13', element: 'ol', attributes: { 'class': 'bck-ol bck-ol13' } },
 
 				{ name: 'Lista desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul bck-ul1' } },
 				{ name: 'Lista desordenada 2', element: 'ul', attributes: { 'class': 'bck-ul bck-ul2' } },
