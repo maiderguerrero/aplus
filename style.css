@@ -1,20 +1,20 @@
 /* General */
 
-  body.content_type_clase_aplus {
+  body.content_type_clase_aplus_demo {
     font-size: 1.8rem;
     font: 400 15px 'Source Sans Pro',sans-serif;
   }
 
-  body.content_type_clase_aplus #actividad .content img {
+  body.content_type_clase_aplus_demo #actividad .content img {
     padding: 5px;
   }
 
 
-  .is_app.content_type_clase_aplus {
+  .is_app.content_type_clase_aplus_demo {
     padding-top: 0px;
   }
 
-  .content_type_clase_aplus #actividad {
+  .content_type_clase_aplus_demo #actividad {
     margin-bottom: 0px;
     -webkit-transform: none;
     -webkit-transform-style: flat;
@@ -28,12 +28,12 @@
     position: relative;
   }
 
-  .content_type_clase_aplus #actividad .slide-concatenate {
+  .content_type_clase_aplus_demo #actividad .slide-concatenate {
     margin-top: 30px;
   }
 
-  .content_type_clase_aplus #actividad .content .header .title img,
-  .content_type_clase_aplus #actividad .content .header .chapter {
+  .content_type_clase_aplus_demo #actividad .content .header .title img,
+  .content_type_clase_aplus_demo #actividad .content .header .chapter {
     display: none;
   }
 
@@ -43,22 +43,22 @@
     visibility: hidden;
   }
 
-  .content_type_clase_aplus #actividad .content .header {
+  .content_type_clase_aplus_demo #actividad .content .header {
     border: none;
     margin-bottom: 0;
   }
 
-  .content_type_clase_aplus #actividad .content .header .title {
+  .content_type_clase_aplus_demo #actividad .content .header .title {
     margin: -20px 3px 19px;
       background: #fff;
       padding: 20px 97px;
   }
 
-  .content_type_clase_aplus #actividad .content .slide-concatenate .header .title {
+  .content_type_clase_aplus_demo #actividad .content .slide-concatenate .header .title {
     display: none;
   }
 
-  .content_type_clase_aplus #actividad .content .header .title h3 {
+  .content_type_clase_aplus_demo #actividad .content .header .title h3 {
     position: relative;
       display: block;
       width: fit-content;
@@ -70,7 +70,7 @@
       text-align: left;
   }
 
-  .content_type_clase_aplus #actividad .content .seccion_rosa .header .title h3 {
+  .content_type_clase_aplus_demo #actividad .content .seccion_rosa .header .title h3 {
     position: relative;
       display: block;
       width: fit-content;
@@ -82,7 +82,7 @@
       text-align: left;
   }
 
-  .content_type_clase_aplus #actividad .content .seccion_verde .header .title h3 {
+  .content_type_clase_aplus_demo #actividad .content .seccion_verde .header .title h3 {
     position: relative;
       display: block;
       width: fit-content;
@@ -94,7 +94,7 @@
       text-align: left;
   }
 
-    .content_type_clase_aplus #actividad .content .seccion_verde_oscuro .header .title h3 {
+    .content_type_clase_aplus_demo #actividad .content .seccion_verde_oscuro .header .title h3 {
     position: relative;
       display: block;
       width: fit-content;
@@ -107,15 +107,15 @@
   }
 
 
-  .content_type_clase_aplus #actividad .content .header .title h3 span {
+  .content_type_clase_aplus_demo #actividad .content .header .title h3 span {
     float: left;
     font-size: 1.8rem;
     font-weight: 900;
     line-height: 1.1rem;
   }
 
-  .content_type_clase_aplus #actividad .slide_content_type_1 .pregunta .texto_curso,
-  .content_type_clase_aplus #actividad .texto_curso,
+  .content_type_clase_aplus_demo #actividad .slide_content_type_1 .pregunta .texto_curso,
+  .content_type_clase_aplus_demo #actividad .texto_curso,
   .html-book {
     font-size: 1.8rem;
   }
@@ -142,7 +142,7 @@
       padding-bottom: 100px;
   }
 
-  .content_type_clase_aplus .slide_main {
+  .content_type_clase_aplus_demo .slide_main {
     padding: 0 97px;
   }
 
@@ -200,13 +200,13 @@
   }
 
   @media screen and (max-width: 480px) {
-    .content_type_clase_aplus .slide_main {
+    .content_type_clase_aplus_demo .slide_main {
       padding: 0 35px;
     }
   }
 
-  .content_type_clase_aplus .slide_main input,
-  .content_type_clase_aplus .slide_main .img-input-container {
+  .content_type_clase_aplus_demo .slide_main input,
+  .content_type_clase_aplus_demo .slide_main .img-input-container {
     color: #555;
     background-color: #fff;
     background-image: none;
@@ -226,8 +226,8 @@
     transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s, -moz-box-shadow ease-in-out .15s;
   }
 
-  .content_type_clase_aplus .slide_main input:focus,
-  .content_type_clase_aplus .slide_main .img-input-container:focus {
+  .content_type_clase_aplus_demo .slide_main input:focus,
+  .content_type_clase_aplus_demo .slide_main .img-input-container:focus {
     border-top-color: #85c939;
     border-right-color: #85c939;
     border-bottom-color: #85c939;
@@ -239,35 +239,35 @@
             box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(133, 200, 57, 0.6);
   }
 
-  .content_type_clase_aplus .slide_main input[disabled],
-  .content_type_clase_aplus .slide_main input[readonly],
-  fieldset[disabled] .content_type_clase_aplus .slide_main input,
-  .content_type_clase_aplus .slide_main .img-input-container {
+  .content_type_clase_aplus_demo .slide_main input[disabled],
+  .content_type_clase_aplus_demo .slide_main input[readonly],
+  fieldset[disabled] .content_type_clase_aplus_demo .slide_main input,
+  .content_type_clase_aplus_demo .slide_main .img-input-container {
     cursor: not-allowed;
     background-color: #eee;
     opacity: 1;
   }
 
-  .content_type_clase_aplus .slide_main .img-input-container input[readonly],
-  .content_type_clase_aplus .slide_main .img-input-container input[disabled] {
+  .content_type_clase_aplus_demo .slide_main .img-input-container input[readonly],
+  .content_type_clase_aplus_demo .slide_main .img-input-container input[disabled] {
     opacity: 0;
     filter: alpha(opacity=0);
   }
 
-  .content_type_clase_aplus .slide_main input.respuesta_ok,
-  .content_type_clase_aplus .slide_main .img-input-container.respuesta_ok {
+  .content_type_clase_aplus_demo .slide_main input.respuesta_ok,
+  .content_type_clase_aplus_demo .slide_main .img-input-container.respuesta_ok {
     border-color: #57e900;
     background: #D1F3BD;
   }
 
-  .content_type_clase_aplus .slide_main input.respuesta_ko,
-  .content_type_clase_aplus .slide_main .img-input-container.respuesta_ko {
+  .content_type_clase_aplus_demo .slide_main input.respuesta_ko,
+  .content_type_clase_aplus_demo .slide_main .img-input-container.respuesta_ko {
     border-color: #FF3626;
     background: #FFA49D;
   }
 
-  .content_type_clase_aplus .slide_main input.solucion,
-  .content_type_clase_aplus .slide_main .img-input-container.solucion {
+  .content_type_clase_aplus_demo .slide_main input.solucion,
+  .content_type_clase_aplus_demo .slide_main .img-input-container.solucion {
     border-color: #00BDFF;
     background: #B6ECFF;
   }
@@ -1723,8 +1723,8 @@ a:hover, a:active, a:focus {
 
 /* Forms */
 
-.content_type_clase_aplus .slide_main input,
-.content_type_clase_aplus .slide_main .img-input-container {
+.content_type_clase_aplus_demo .slide_main input,
+.content_type_clase_aplus_demo .slide_main .img-input-container {
     -webkit-box-shadow: inset 0 0px 0px rgba(0,0,0,0.075);
        -moz-box-shadow: inset 0 0px 0px rgba(0,0,0,0.075);
         box-shadow: inset 0 0px 0px rgba(0,0,0,0.075);
@@ -1735,12 +1735,12 @@ a:hover, a:active, a:focus {
         border-radius: 0px;
 }
 
-.content_type_clase_aplus .slide_main .fill-text .img-input-container {
+.content_type_clase_aplus_demo .slide_main .fill-text .img-input-container {
     display: none;
 }
 
-.content_type_clase_aplus .slide_main input:focus,
-.content_type_clase_aplus .slide_main .img-input-container:focus {
+.content_type_clase_aplus_demo .slide_main input:focus,
+.content_type_clase_aplus_demo .slide_main .img-input-container:focus {
     border-top-color: #10A0C6;
     border-right-color: #10A0C6;
     border-bottom-color: #10A0C6;
@@ -1773,9 +1773,9 @@ a:hover, a:active, a:focus {
     padding: 0;
 }
 
-body.content_type_clase_aplus #actividad .content .fillblanks-draggable-wrapper
+body.content_type_clase_aplus_demo #actividad .content .fillblanks-draggable-wrapper
 .response .bck-i-fullscreen,
-body.content_type_clase_aplus #actividad .content .fillblanks-draggable
+body.content_type_clase_aplus_demo #actividad .content .fillblanks-draggable
 .img-input-container.imgFilled img {
   width: auto;
   height: 100px !important;
