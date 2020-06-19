@@ -1,15 +1,15 @@
 (function (blink) {
 	'use strict';
 
-	var aplusStyle = function () {
+	var aplus_demoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	aplusStyle.prototype = {
-		bodyClassName: 'content_type_clase_aplus',
+	aplus_demoStyle.prototype = {
+		bodyClassName: 'content_type_clase_aplus_demo',
 		ckEditorStyles: {
-			name: 'aplus',
+			name: 'aplus_demo',
 			styles: [
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
@@ -154,8 +154,8 @@
 		}
 	};
 
-	aplusStyle.prototype = _.extend({}, new blink.theme.styles.basic(), aplusStyle.prototype);
+	aplus_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), aplus_demoStyle.prototype);
 
-	blink.theme.styles.aplus = aplusStyle;
+	blink.theme.styles.aplus_demo = aplus_demoStyle;
 
 })( blink );
